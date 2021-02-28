@@ -1,0 +1,114 @@
+bloodorchid=
+	§f§lMineSiege Blood Orchid
+	§c§lBlood Orchid is live!
+	
+	§f§lPATCH NOTES
+	
+	§f§lGENERAL TWEAKS AND IMPROVEMENTS
+	§c- GAME HEALTH
+	§c- PLAYER COMFORT
+	§c- PLAYLIST CHANGES
+	§c- GAME BALANCING
+	
+	§f§lDETAILED TWEAKS AND IMPROVEMENTS
+	
+	
+	
+	§c§lGAME HEALTH
+	
+	
+	§f§lIntroducing New Smoke Grenade And Bolt Animation 
+	§f§l        Dual Perspective Replication 
+	
+	§fSmoke grenades and Capitaos smoke darts have been fully
+	§frevamped. They are now completely opaque and will be
+	§fdisplayed the exact same way on every client, which will
+	§fmake them much more reliable and consistent. We lowered
+	§fthe amount of smoke grenades to 2 per operator. This
+	§fchange will also temporarily make Capitao's smokes grey,
+	§finstead of blue.
+	
+	§f§lNEW GAME DESIGN UPDATE ON ACOGS FOR DEFENDERS
+	
+	§fAs a standard from now on there will not be a 2 or 3
+	§fspeed Defender with the option of using the ACOG sight.
+	
+	§fWhile we like the fact that defenders can challenge
+	§fattackers on long distances on their approach, we
+	§fbelieve this strategy should come with a higher risk.
+	§fThe possibility for 3 speeds operators like Jager and
+	§fBandit to challenge on the longest distances while 
+	§fbeing able to relocate very quickly is currently too
+	§fstrong. As a consequence, Jager and Bandit lose their
+	§fACOG, and the only new defenders that will get ACOGS
+	§fwill be the heavy armored ones. However, this does not
+	§fmean all heavy armor operators will have ACOGS and
+	§fwill be decided on by the Game Design team.
+	
+	§f§lTWO DRONES DEPLOYED AT A TIME FOR ATTATCKERS
+	
+	§fAttackers can now deploy a second drone without
+	§fdestroying the first one. This works just like Twitch
+	§fwho can already deploy her two shock drones. The
+	§fmechanics are also the same where launching a new drone
+	§fwill place the attacker in the new drone’s camera, and
+	§fthey can re-access their first drone view by scrolling
+	§fthe observation tool list.
+	
+	§fWe hope that this change will reinforce the importance
+	§fof the preparation phase by making it possible to position
+	§fa drone inside the building, and then deploy a new drone
+	§fduring the action phase to scout ahead without losing
+	§fthis first drone.
+	
+	§fWe will monitor closely the impact this will have on
+	§fglobal win rates of attackers and defenders, as we
+	§fexpect this to give an additional edge to attackers
+	§fsince they can now have up to 10 active cameras at
+	§fa time.
+	
+	§f§lKANAL SPAWN KILL EXPLOIT
+	
+	§fUsing the shield vault exploit, Defenders can place
+	§fthemselves on the windowsill of North windows of
+	§fControl Room aiming at Floating Dock spawn location,
+	§fand North windows of Server Room aiming at Construction
+	§fSite. We have fixed this so defenders can no longer use
+	§fthis spawn kill exploit.
+	
+	
+	
+	§c§lPLAYER COMFORT
+	
+	
+	§f§lDEFENDER VISION FILTER IS REMOVED WHEN GOING OUTSIDE
+	
+	§fWe have removed the red filter that make defenders’
+	§fvision uncomfortable when they run outside the
+	§fbuilding. We think the red warning in the middle
+	§fof the screen should be clear enough feedback that
+	§fyou are doing something dangerous.
+	
+	§f§lPRIORITY ON OBSERVATION TOOLS FOR ALIVE PLAYERS
+	
+	§fIf an alive player browses the observation tool list, 
+	§fhe will now have priority over dead players for camera
+	§fcontrols (in attack and defense). While this should
+	§fnot make much of a difference in organized matches,
+	§fwe think it should help in public matchmaking in case
+	§fa dead player is AFK while controlling a camera and
+	§fprevents alive players from getting info.
+	
+	
+	
+	§c§lPLAYLIST CHANGES
+	
+	
+	§f§lNOT FINISHED
+	
+	
+	
+	§c§lGAME BALANCING
+	
+	
+	§f§lNOT FINISHED
